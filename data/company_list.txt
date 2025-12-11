@@ -7,4 +7,3 @@ LnC_Bio,290650
 Peptron,087010
 Caregen,214370
 Pharmicell,005690
-Seers_Technology,458870
