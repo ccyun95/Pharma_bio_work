@@ -2,8 +2,11 @@ Celltrion,068270
 ST_Pharm,237690
 Ligachem_Bio,141080
 ABL_Bio,298380
+April_Bio,397030
+Alteogen,196170
 Proteina,468530
 Caregen,214370
 Pharmicell,005690
 Peptron,087010
+DnD_Pharmatech,347850
 Amicogen,092040
